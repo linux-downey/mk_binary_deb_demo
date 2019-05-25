@@ -1,0 +1,11 @@
+Source:mkdeb
+Priority:optional
+Maintainer:downey
+Build-Depends:diodon
+Standards-Version:4.0.0
+Version:1.0.0
+Package:mkdeb
+Architecture:amd64
+Description:This package just for test!
+    just print hello world!
+
